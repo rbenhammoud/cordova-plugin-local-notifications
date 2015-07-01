@@ -20,7 +20,7 @@
 */
 
 
-exports = require('de.appplant.cordova.plugin.local-notification.LocalNotification.Proxy').core;
+exports = require('com.and.cordova.plugin.local-notification.LocalNotification.Proxy').core;
 
 var channel = require('cordova/channel');
 
